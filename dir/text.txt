@@ -1,0 +1,2 @@
+A tak wyglądają po zapisie!Tekst, który zapiszemy w pliku text.txt
+A tak wyglądają po zapisie!
